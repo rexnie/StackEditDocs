@@ -30,5 +30,5 @@ objdump -Obinary boot.elf boot.bin ==>boot.elf转化为boot.bin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODE1MDgzNl19
+eyJoaXN0b3J5IjpbODEwODE3MjMyLC04NTgxNTA4MzZdfQ==
 -->
