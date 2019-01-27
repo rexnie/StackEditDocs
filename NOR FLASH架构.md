@@ -33,5 +33,5 @@ I2C从机挂死分析和解决方法
 http://www.ifuryst.com/archives/Linux-PLT-GOT.html
 Linux动态链接中的PLT和GOT
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTY1MDc2OCwxMzc1MDY3NzU5XX0=
+eyJoaXN0b3J5IjpbLTQ4OTY1MDc2OF19
 -->
