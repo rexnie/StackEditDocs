@@ -27,6 +27,9 @@ u-boot传参
 
 misc
 https://blog.csdn.net/chichoxian/article/details/53471591
+
+http://www.ifuryst.com/archives/Linux-PLT-GOT.html
+Linux动态链接中的PLT和GOT
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg5NzY0MjIsMTM3NTA2Nzc1OV19
+eyJoaXN0b3J5IjpbMjEzMzgzMTc0NywxMzc1MDY3NzU5XX0=
 -->
