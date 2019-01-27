@@ -25,8 +25,8 @@ Query Struct说明
 u-boot传参
 [Linux mtd system](https://www.jianshu.com/p/89a94c1d3e72)
 
-
-> Written with [StackEdit](https://stackedit.io/).
+misc
+https://blog.csdn.net/chichoxian/article/details/53471591
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTA2Nzc1OV19
+eyJoaXN0b3J5IjpbLTE5Nzg5NzY0MjIsMTM3NTA2Nzc1OV19
 -->
